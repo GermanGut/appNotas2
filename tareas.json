@@ -1,0 +1,31 @@
+[
+   {
+      "titulo": "Repasar Funciones",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "Trabajo practico 1",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Modulo 1",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Metodos de Array",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Trabajo practico 2",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "TP Concesionaria",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "Nueva tarea",
+      "estado": "pendiente"
+   }
+        
+]
